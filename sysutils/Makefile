@@ -46,8 +46,6 @@
     SUBDIR += ansible-sshjail
     SUBDIR += ansible-sysrc
     SUBDIR += ansible2
-    SUBDIR += ansible27
-    SUBDIR += ansible28
     SUBDIR += anvil
     SUBDIR += apache-mesos
     SUBDIR += apachetop
@@ -561,6 +559,7 @@
     SUBDIR += k3b
     SUBDIR += k4dirstat
     SUBDIR += k8temp
+    SUBDIR += k9s
     SUBDIR += kbackup
     SUBDIR += kcron
     SUBDIR += kdeadmin

@@ -51,7 +51,6 @@
     SUBDIR += belier
     SUBDIR += bfbtester
     SUBDIR += binwalk
-    SUBDIR += bitwarden_rs
     SUBDIR += boringssl
     SUBDIR += botan110
     SUBDIR += botan2
@@ -311,6 +310,7 @@
     SUBDIR += libpwstor
     SUBDIR += libressl
     SUBDIR += libressl-devel
+    SUBDIR += libreswan
     SUBDIR += libretls
     SUBDIR += libscep
     SUBDIR += libscrypt
@@ -398,6 +398,7 @@
     SUBDIR += openbsm
     SUBDIR += openca-tools-forked
     SUBDIR += openconnect
+    SUBDIR += openconnect-freebsd-daemon
     SUBDIR += openconnect-gui
     SUBDIR += opencryptoki
     SUBDIR += openct
@@ -1278,6 +1279,7 @@
     SUBDIR += unicornscan
     SUBDIR += vanguards-tor
     SUBDIR += vault
+    SUBDIR += vaultwarden
     SUBDIR += veracrypt
     SUBDIR += vigenere
     SUBDIR += vinetto
